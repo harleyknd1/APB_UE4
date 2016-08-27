@@ -1,6 +1,6 @@
 # APB:UE4
 
-![apbue4](https://i.imgur.com/aMXprTl.png)
+<img src="https://i.imgur.com/aMXprTl.png" height="50%">
 
 What is APB:UE4?
 
