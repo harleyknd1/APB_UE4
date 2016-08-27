@@ -1,6 +1,6 @@
 # APB:UE4
 
-<img src="https://i.imgur.com/aMXprTl.png" height="50">
+<img src="https://i.imgur.com/aMXprTl.png" height="300">
 
 What is APB:UE4?
 
