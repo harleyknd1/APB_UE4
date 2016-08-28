@@ -1,0 +1,31 @@
+<fixitnotes>
+<fixitversion>1.0.0</fixitversion>
+	<fixitnote>
+		<text>Fix Textures</text>
+		<priority>2</priority>
+		<x>-1988.780396</x><y>-3629.515137</y><z>904.111877</z>
+		<recipient></recipient>
+		<tags>texture</tags>
+	</fixitnote>
+	<fixitnote>
+		<text>ADD the Ships</text>
+		<priority>1</priority>
+		<x>-9523.682617</x><y>1948.594604</y><z>-188.771606</z>
+		<recipient>Aneko</recipient>
+		<tags></tags>
+	</fixitnote>
+	<fixitnote>
+		<text>Finish this area</text>
+		<priority>2</priority>
+		<x>-5754.335938</x><y>2995.798828</y><z>-49.709999</z>
+		<recipient></recipient>
+		<tags></tags>
+	</fixitnote>
+	<fixitnote>
+		<text>find and add textures</text>
+		<priority>2</priority>
+		<x>-4847.479980</x><y>-3813.485596</y><z>2540.941406</z>
+		<recipient>find and add textures</recipient>
+		<tags>texture</tags>
+	</fixitnote>
+</fixitnotes>
